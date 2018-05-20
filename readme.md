@@ -4,6 +4,7 @@ pour faire le test
 taper au terminal 
 
 >>> python3
+
 >>> import doctest
 >>> doctest.testfile("racine-test.txt")
 
